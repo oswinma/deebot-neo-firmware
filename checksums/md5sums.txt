@@ -1,0 +1,11 @@
+f5141cc0aafb9395ddf8750a2a1954ec  p1_uboot.img
+7f198268f596f0fa36e4205e03ef7fa5  p2_trust.img
+b5cfa9d6c8febd618f91ac2843d50a1c  p3_mx.img
+b5cfa9d6c8febd618f91ac2843d50a1c  p4_my.img
+7dc69b465a6da36421c7aa13dd7c8983  p5_sys.img
+adf2069522c3a6c1897de08f0049006c  p6_boot1.img
+3951131cc4c1afb48cdad92ac12c9378  p7_rootfs1.img
+adf2069522c3a6c1897de08f0049006c  p8_boot2.img
+8bd0423ac3d06c98c223e9a0a0b9511d  p9_rootfs2.img
+ed2e8c976abe37bde72ab9eb7ddac3d2  p10_data.img
+312b066185cbc29930a2b139c8ebbd18  data_files.tgz
